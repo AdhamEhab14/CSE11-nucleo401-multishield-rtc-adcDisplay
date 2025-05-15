@@ -30,7 +30,6 @@ It showcases a real-time clock (RTC) and analog voltage display using the **NUCL
   - Onboard potentiometer
   - Tactile push buttons (S1, S2, S3)
 
-
 ---
 
 ## 🚀 How It Works
@@ -47,8 +46,8 @@ It showcases a real-time clock (RTC) and analog voltage display using the **NUCL
 
 ## 📽 Demo Video
 
-👉 A short demonstration video is included in the repository:  
-`demo_video.mp4`
+Watch the full system in action here:  
+📺 [YouTube Demo – NUCLEO RTC & Voltage Display](https://youtu.be/23day6YDwYg)
 
 ---
 
@@ -64,12 +63,11 @@ It showcases a real-time clock (RTC) and analog voltage display using the **NUCL
 ## 👨‍💻 Authors
 
 **Team Members:**  
-- Adham Ehab Saleh 2100679
-- Omar Mohamed Fathy 2100503
-- Mohamed Montasser Abdelwahab 2100543
+- Adham Ehab Saleh (2100679)  
+- Omar Mohamed Fathy (2100503)  
+- Mohamed Montasser Abdelwahab (2100543)
 
 **Course Instructor:**  
-- Dr.Mohamed H. El-Shafey  
+- Dr. Mohamed H. El-Shafey  
 - Faculty of Engineering, Ain Shams University
-
 
