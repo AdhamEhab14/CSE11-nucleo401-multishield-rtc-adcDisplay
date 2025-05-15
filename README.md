@@ -48,6 +48,7 @@ It showcases a real-time clock (RTC) and analog voltage display using the **NUCL
 
 Watch the full system in action here:  
 📺 [YouTube Demo – NUCLEO RTC & Voltage Display](https://youtu.be/23day6YDwYg)
+![System Demo Photo](images/project-demo.jpg)
 
 ---
 
