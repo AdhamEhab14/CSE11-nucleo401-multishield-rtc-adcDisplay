@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 
 This project is part of the **CSE211s – Introduction to Embedded Systems (Spring 2025)** course at Ain Shams University.  
-It showcases a real-time clock (RTC) and analog voltage display using the **NUCLEO-F401RE** board and the **Arduino Multifunction Shield**.
+It showcases a real-time clock (RTC) and analog voltage display using the **NUCLEO-F401RE** board and the **Arduino Multifunction Shield**
 
 ---
 
